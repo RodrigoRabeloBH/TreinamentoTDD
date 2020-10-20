@@ -1,0 +1,109 @@
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.pdb
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.csprojResolveAssemblyReference.cache
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.pdb
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\DatabaseLib.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Rhino.Mocks.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Scimore.Data.ScimoreClient.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Dapper.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\DatabaseLib.pdb
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.pdb
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Rhino.Mocks.xml
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Dapper.xml
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.dll.config
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Castle.Windsor.dll
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.dll.config
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Castle.Windsor.xml
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\UnitTestsProject\bin\Debug\Castle.Core.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.dll.config
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Castle.Core.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Castle.Windsor.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Rhino.Mocks.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.dll.config
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Castle.Windsor.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Rhino.Mocks.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.csprojResolveAssemblyReference.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.dll.config
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Castle.Core.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Castle.Windsor.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Rhino.Mocks.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.dll.config
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Castle.Windsor.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Rhino.Mocks.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.csprojAssemblyReference.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.csproj.CopyComplete
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.pdb
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.dll.config
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.pdb
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Castle.Core.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Castle.Windsor.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\DatabaseLib.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Rhino.Mocks.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Dapper.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\DatabaseLib.pdb
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.pdb
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.dll.config
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Castle.Windsor.xml
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Rhino.Mocks.xml
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\bin\Debug\Dapper.xml
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.csprojAssemblyReference.cache
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.csproj.CopyComplete
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.pdb

@@ -1,0 +1,85 @@
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csprojResolveAssemblyReference.cache
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\obj\Debug\Exercicio01.Properties.Resources.resources
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.GenerateResource.Cache
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\DatabaseLib.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\Scimore.Data.ScimoreClient.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\Dapper.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\DatabaseLib.pdb
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\Dapper.xml
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\obj\Debug\Exercicio01.FrmMain.resources
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.pdb
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\Castle.Core.dll
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\Castle.Windsor.dll
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.dll.config
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\Exercicio01\bin\Debug\Castle.Windsor.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\Castle.Core.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\Castle.Windsor.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.dll.config
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\Castle.Windsor.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csprojResolveAssemblyReference.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\obj\Debug\Exercicio01.FrmMain.resources
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\obj\Debug\Exercicio01.Properties.Resources.resources
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.GenerateResource.Cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\Castle.Core.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\Castle.Windsor.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.dll.config
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\Castle.Windsor.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csprojAssemblyReference.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.FrmMain.resources
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.Properties.Resources.resources
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.GenerateResource.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CopyComplete
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\Castle.Core.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\Castle.Windsor.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\DatabaseLib.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\Dapper.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\DatabaseLib.pdb
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.pdb
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.dll.config
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\Castle.Windsor.xml
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\bin\Debug\Dapper.xml
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csprojAssemblyReference.cache
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.FrmMain.resources
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.Properties.Resources.resources
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.GenerateResource.cache
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CopyComplete
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb

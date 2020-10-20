@@ -1,0 +1,33 @@
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.pdb
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\bin\Debug\Dapper.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\bin\Debug\Scimore.Data.ScimoreClient.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\bin\Debug\Dapper.xml
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.csprojResolveAssemblyReference.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\DatabaseLib\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\DatabaseLib\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.csprojResolveAssemblyReference.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Publico\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\DatabaseLib\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\DatabaseLib\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.csprojAssemblyReference.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.csproj.CopyComplete
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\DatabaseLib\bin\Debug\Dapper.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\DatabaseLib\bin\Debug\Dapper.xml
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.csproj.CopyComplete
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.pdb
