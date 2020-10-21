@@ -26,9 +26,9 @@
     DbManager Manager = new DatabaseLib.SqlServer.SqlServerManager(new ConnectionInfo()
     {
       DatabaseName = "TESTEUNITARIO",
-      ServerName = "LOCALHOST",
-      UserName = "rm",
-      Password = "rm",
+      ServerName = "LOCALHOST\\SQLEXPRESS",
+      UserName = "sa",
+      Password = "sa",
       Path = string.Empty
     });
 
@@ -87,64 +87,35 @@
       long ticks = 0;
       var cont = 0;
 
+      CalculosFuncionario calculadora = new CalculosFuncionario();
+
       using (var access = Manager.GetAccess())
       {
         foreach (DataRow row in dsMain.Tables["PESSOA"].Rows)
         {
           var inicioGeralFunc = DateTime.Now;
 
-          if ((row.Field<string>("ATIVO") == "S") &&
-            ((row.Field<decimal>("SALARIO") >= 1000) && (row.Field<decimal>("SALARIO") < 5000)))
+          Pessoa funcionario = new Pessoa(row, _relation);
+          double salarioAntigo = funcionario.Salario;
+          funcionario.Salario = calculadora.CalculaSalarioComAumento(funcionario);
+
+          logCalculo.Append(calculadora.GetLog());
+          if (calculadora.ultimoFuncionarioTeveSalarioAtualizado)
           {
             cont++;
-            logCalculo.AppendLine($">   Processando dados do funcionário {row["ID"]}:{row["NOME"]}");
-            decimal percentual = 1.1M;
-            logCalculo.AppendLine($"    Percentual Base: {percentual - 1}");
-
-            var dependentesMulheres = row.GetChildRows(_relation)
-              .Where(x => x.Field<string>("SEXO") == "F" && x.Field<DateTime>("NASCIMENTO").Month > 7).Count();
-
-            logCalculo.AppendLine($"    Dependentes do Sexo Feminino nascidas após mês de Julho: {dependentesMulheres}");
-
-            if (dependentesMulheres > 0)
-            {
-              dependentesMulheres = Tops(3, dependentesMulheres);
-              logCalculo.AppendLine($"    Aplicando limite máximo de dependentes: {dependentesMulheres}");
-              logCalculo.AppendLine($"    Percentual Ajustado para dependentes: ({percentual}) + ({dependentesMulheres * 0.01M}) = [{percentual + dependentesMulheres * 0.01M}]");
-              percentual += dependentesMulheres * 0.01M;
-            }
-
-            var anosTrabalhados = ((DateTime.Now - row.Field<DateTime>("INiCIOCONTRATO")).Days / 365);
-            logCalculo.AppendLine($"    Quantidade de anos trabalhados: {anosTrabalhados}");
-
-            anosTrabalhados = Tops(3, anosTrabalhados);
-            logCalculo.AppendLine($"    Aplicando limite máximo de anos trabalhados: {anosTrabalhados}");
-
-            percentual += (anosTrabalhados) * 0.02M;
-            logCalculo.AppendLine($"    Percentual Ajustado para anos trabalhados: {percentual - 1}");
-
-            var novoSalario = row.Field<decimal>("SALARIO") * percentual;
-            var salarioAntigo = row.Field<decimal>("SALARIO");
-
-            logCalculo.AppendLine($"    Novo Salário = ({salarioAntigo}) * ({percentual}) = {novoSalario} [+{(percentual - 1) * 100}%]  ");
-
             row.BeginEdit();
-            row["SALARIO"] = novoSalario;
+            row["SALARIO"] = funcionario.Salario;
             row.EndEdit();
             logCalculo.AppendLine("    Gravando dados do funcionario");
             var inicioGrava = DateTime.Now;
             access.QueryUpdate(dsMain.Tables["PESSOA"]);
             logCalculo.AppendLine($"    Novo salário calculado com sucesso");
             logCalculo.AppendLine($"    Tempo de Gravação no banco         : {DateTime.Now - inicioGrava}");
-            var tempoCalcFun = DateTime.Now - inicioGeralFunc;
-            logCalculo.AppendLine($"    Tempo de Cálculo para o funcionário: {tempoCalcFun}");
-            logCalculo.AppendLine("    -------------------------------------------------------------------");
-            ticks += tempoCalcFun.Ticks;
           }
-          else
-          {
-            logForaCalculo.AppendLine($"    Funcionário {row["NOME"]}, Salário {row["SALARIO"]}, Situacão {row["ATIVO"]}");
-          }
+          var tempoCalcFun = DateTime.Now - inicioGeralFunc;
+          logCalculo.AppendLine($"    Tempo de Cálculo para o funcionário: {tempoCalcFun}");
+          logCalculo.AppendLine("    -------------------------------------------------------------------");
+          ticks += tempoCalcFun.Ticks;
         }
       }
       logCalculo.AppendLine();

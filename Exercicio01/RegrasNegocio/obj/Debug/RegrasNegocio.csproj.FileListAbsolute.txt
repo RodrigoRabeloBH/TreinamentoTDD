@@ -59,3 +59,19 @@ C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\RegrasNegocio\obj\Debug\R
 C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
 C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.dll
 C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\bin\Debug\RegrasNegocio.dll.config
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\bin\Debug\Castle.Core.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\bin\Debug\Castle.Windsor.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\bin\Debug\DatabaseLib.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\bin\Debug\Dapper.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\bin\Debug\DatabaseLib.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\bin\Debug\Castle.Windsor.xml
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\bin\Debug\Dapper.xml
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.csprojAssemblyReference.cache
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.pdb

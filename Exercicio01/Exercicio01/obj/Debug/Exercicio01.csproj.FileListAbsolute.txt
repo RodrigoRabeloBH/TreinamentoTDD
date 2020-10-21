@@ -83,3 +83,25 @@ C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\obj\Debug\Exe
 C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CopyComplete
 C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
 C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\Castle.Core.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\Castle.Windsor.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\DatabaseLib.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\Dapper.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\DatabaseLib.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\RegrasNegocio.dll.config
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\Castle.Windsor.xml
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\bin\Debug\Dapper.xml
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csprojAssemblyReference.cache
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\obj\Debug\Exercicio01.FrmMain.resources
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\obj\Debug\Exercicio01.Properties.Resources.resources
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.GenerateResource.cache
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CopyComplete
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb

@@ -31,3 +31,12 @@ C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\DatabaseLib\obj\Debug\Dat
 C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.csproj.CopyComplete
 C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.dll
 C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\DatabaseLib\bin\Debug\Dapper.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\DatabaseLib\bin\Debug\Dapper.xml
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.csproj.CoreCompileInputs.cache
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.csproj.CopyComplete
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.csprojAssemblyReference.cache

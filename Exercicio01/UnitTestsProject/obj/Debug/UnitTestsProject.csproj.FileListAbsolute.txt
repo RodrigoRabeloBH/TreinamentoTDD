@@ -107,3 +107,31 @@ C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\obj\Debu
 C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.csproj.CopyComplete
 C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.dll
 C:\Users\rodrigo.alexandre\Downloads\Fase1\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.dll.config
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\UnitTestsProject.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Castle.Core.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Castle.Windsor.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\DatabaseLib.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Rhino.Mocks.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Dapper.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\DatabaseLib.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.pdb
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\RegrasNegocio.dll.config
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Castle.Windsor.xml
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Rhino.Mocks.xml
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\bin\Debug\Dapper.xml
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.csprojAssemblyReference.cache
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.csproj.CoreCompileInputs.cache
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.csproj.CopyComplete
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.dll
+C:\Users\estev\Desktop\Projeto Rodrigo\TreinamentoTDD\Exercicio01\UnitTestsProject\obj\Debug\UnitTestsProject.pdb

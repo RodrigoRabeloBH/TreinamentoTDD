@@ -35,18 +35,24 @@
 
           for (int i = 0; i < 500; i++)
           {
+            string datePattern = "yyyy-dd-MM";
+            string birthDate= DateTime.Now.AddDays(-1 * (i + 5000)).ToString(datePattern);
+            string iniDate = DateTime.Now.AddDays(-1 * (i + 2000)).ToString(datePattern);
+
             access.Execute($@"INSERT INTO PESSOA (ID,NOME, EMAIL, NASCIMENTO, INICIOCONTRATO, SEXO, ATIVO, SALARIO) VALUES
                         ({i},'FUNCIONARIO {i:000}','{i:000}@teste.com', 
-                        '{DateTime.Now.AddDays(-1 * (i + 5000)):MM/dd/yyyy}',
-                        '{DateTime.Now.AddDays(-1 * (i + 2000)):MM/dd/yyyy}','{GetSex(i)}', '{Ativo()}', '{i * 10}')");
+                        '{birthDate}',
+                        '{iniDate}','{GetSex(i)}', '{Ativo()}', '{i * 10}')");
 
 
             var numDep = new Random().Next(1, 5);
 
+            string data = DateTime.Now.AddDays(-1 * (i + 1000)).ToString(datePattern);
+
             for (int j = 0; j < numDep; j++)
             {
               access.Execute($@"INSERT INTO DEPENDENTE (PESSOA,NOME, NASCIMENTO, SEXO) VALUES
-                        ({i},'DEPENDENTE {j:000}','{DateTime.Now.AddDays(-1 * (i + 1000)):MM/dd/yyyy}','{GetSex(i)}')");
+                        ({i},'DEPENDENTE {j:000}','{data}','{GetSex(i)}')");
             }
           }
         }

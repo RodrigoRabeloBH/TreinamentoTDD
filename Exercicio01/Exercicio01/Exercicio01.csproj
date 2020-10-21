@@ -102,5 +102,6 @@
     <Content Include="Banco.sql" />
     <Content Include="Detalhamento da Tarefa.txt" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
